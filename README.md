@@ -89,6 +89,7 @@
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
 
 Template credits: [Hrugved Kolhe](https://github.com/hrugved06)
+</br>
+![](https://komarev.com/ghpvc/?username=aseyfpour&color=grey)
