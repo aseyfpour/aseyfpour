@@ -60,7 +60,8 @@ I have a degree in Computer Science and 10 years of experience in tech. I starte
 ### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 
 
