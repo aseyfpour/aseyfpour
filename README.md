@@ -12,14 +12,16 @@ I have a degree in Computer Science and 10 years of experience in tech. I starte
 ## Contributions:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aseyfpour&&show_icons=true&title_color=ffffff&icon_color=fb8c00&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aseyfpour&theme=dark&hide_border=true&card_width=400&card_height=180&hide_total_contributions=true" alt="streaks" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aseyfpour&theme=dark" alt="HrugVed" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aseyfpour&theme=dark" alt="contributions">
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aseyfpour&theme=alduin" />
+<img src="https://github-profile-trophy.vercel.app/?&margin-w=5&no-frame=true&username=aseyfpour&theme=onestar" alt="badges"/>
 </p>
+
+
 
 ## Tools and Technologies:
 
