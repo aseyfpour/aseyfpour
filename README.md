@@ -8,17 +8,18 @@ I have a degree in Computer Science and 10 years of experience in tech. I starte
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aseyfpour)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aseyfpour@mail.com)
 
+0d1117
 
 ## Contributions:
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aseyfpour&theme=dark&hide_border=true&card_width=400&card_height=180&hide_total_contributions=true" alt="streaks" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aseyfpour&theme=github-dark-blue&hide_border=true&card_width=400&card_height=180&hide_total_contributions=true" alt="streaks" />
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aseyfpour&theme=dark" alt="contributions">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aseyfpour&theme=github_dark" alt="contributions">
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?&margin-w=5&no-frame=true&username=aseyfpour&theme=onestar" alt="badges"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aseyfpour&theme=onestar&margin-w=5&no-frame=true" alt="badges"/>
 </p>
 
 
